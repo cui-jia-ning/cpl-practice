@@ -1,0 +1,2 @@
+
+  char username[100];
