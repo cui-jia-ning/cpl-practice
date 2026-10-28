@@ -1,0 +1,1 @@
+fac_multy[k]=fac_multy[k]%m;
